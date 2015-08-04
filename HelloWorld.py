@@ -1,3 +1,5 @@
+# this is a pygame sample hello  world file
+
 import pygame
 import sys
 
